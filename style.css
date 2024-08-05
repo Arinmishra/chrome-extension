@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-width: 400px;
+}
+
+#input-el{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #CCD5AE;
+    margin-bottom: 5px;
+}
+
+button{
+    padding: 10px;
+    margin-right: 5px;
+    background-color: #40534C;
+    color: #fff;
+    font-weight: 600;
+    border: 2px solid #CCD5AE;
+    cursor: pointer;
+}
+
+#delete-btn{
+    background-color: transparent;
+    color: #40534C;
+}
+
+ul{
+    margin-top: 20px;
+    list-style-type: none;
+    color: #40534C;
+    padding-left: 0;
+}
+
+a{
+    color: #40534C;
+}
